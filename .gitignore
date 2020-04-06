@@ -1,0 +1,5 @@
+node_modules
+users.json
+dogs.json
+mappedDogs.json
+yarn.lock
